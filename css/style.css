@@ -2,10 +2,18 @@ body {
   background-color: #bbe1fa;
 }
 
+h1{
+  color: #3282b8;
+}
+
+h3{
+  color: #3282b8;
+}
+
 hr {
   border-style: none;
   border-top-style: dashed;
-  border-color: #0f4c75;
+  border-color: #1b262c;
   border-width: 2px;
   width: 20%;
 }
