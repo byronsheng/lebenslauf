@@ -1,5 +1,15 @@
-div{
+.top{
   background-color: #bbe1fa;
+}
+
+.mittle{
+  background-color: red;
+  width: 300px;
+  height: 300px;
+}
+
+.buttom{
+  background-color: blue
 }
 
 h1{
