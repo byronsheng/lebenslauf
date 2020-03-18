@@ -10,10 +10,14 @@ h3{
   color: #3282b8;
 }
 
+.data{
+  text-align: right;
+}
+
 hr {
   border-style: none;
   border-top-style: dashed;
   border-color: #1b262c;
   border-width: 2px;
-  width: 20%;
+  width: 15%;
 }
