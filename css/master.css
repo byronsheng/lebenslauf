@@ -3,6 +3,7 @@
   width: 200px;
   height: 200px;
   border: solid 10px;
+  border-color: #3282b8;
   padding: 20px;
 }
 
@@ -31,11 +32,27 @@
   margin: 100px auto 100px auto;
   text-align: center;
   line-height: 2;
+
 }
 
 .code-image{
   width: 25%;
+  float: left;
+  margin-right: 30px;
+}
 
+.skill-row-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile{
+  text-align: center;
+}
+
+.end{
+  text-align: right;
 }
 
 h1{
