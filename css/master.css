@@ -51,10 +51,11 @@
 
 .anschreiben{
   text-align: center;
-  width: 70%;
+  width: 50%;
   line-height: 1.5rem;
   font-family: 'Montserrat', sans-serif;
   margin: auto;
+  margin-top: 30px;
 }
 
 .btn {
